@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Rock-paper-scissors](https://github.com/Ernest2026/Rock-Paper-Scissors/)
-- Live Site URL: [Rock-paper-scissors](r-p-s-l-s.netlify.app)
+- Live Site URL: [Rock-paper-scissors](https://r-p-s-l-s.netlify.app)
 
 ## My process
 
