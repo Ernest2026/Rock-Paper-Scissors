@@ -8,13 +8,7 @@ This is a solution to the [Rock, Paper, Scissors, Lizard, Spock challenge on Fro
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -35,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Rock-paper-scissors](https://github.com/Ernest2026/Rock-Paper-Scissors/)
+- Live Site URL: [Rock-paper-scissors](r-p-s-l-s.netlify.app)
 
 ## My process
 
@@ -52,7 +46,7 @@ Users should be able to:
 ## Author
 
 - Website - [Error 404😓]()
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@Ernesto_tech](https://www.twitter.com/Ernest_tech)
+- Frontend Mentor - [@Ernest2026](https://www.frontendmentor.io/profile/Ernest2026)
+- Twitter - [@Ernesto](https://www.twitter.com/Ernest_tech)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
